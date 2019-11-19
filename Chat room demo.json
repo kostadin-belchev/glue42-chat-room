@@ -1,0 +1,265 @@
+{
+    "name": "Chat room demo v3",
+    "canvas": {
+        "lanes": [
+            {
+                "items": [
+                    {
+                        "lane": 0,
+                        "positionInLane": 0,
+                        "type": "tab",
+                        "items": [
+                            {
+                                "lane": 0,
+                                "positionInLane": 0,
+                                "tabIndex": 0,
+                                "selected": true,
+                                "type": "window",
+                                "name": "Glue42ChatClient",
+                                "tabTitle": "Glue42 Chat Client",
+                                "tabGroup": "6b33b230-3848-482e-af6e-4cca1cf827cc",
+                                "newItemButtonBounds": {
+                                    "left": 0,
+                                    "top": 0,
+                                    "width": 0,
+                                    "height": 0
+                                },
+                                "maximizeRestoreButtonBounds": {
+                                    "left": 0,
+                                    "top": 0,
+                                    "width": 0,
+                                    "height": 0
+                                },
+                                "maximized": false,
+                                "bounds": {
+                                    "left": 0,
+                                    "top": 0,
+                                    "width": 0,
+                                    "height": 0
+                                },
+                                "inMaximizedTab": false,
+                                "disableTileMode": false
+                            }
+                        ],
+                        "allowDrop": true,
+                        "allowExtract": true,
+                        "newItemButtonBounds": {
+                            "left": 0,
+                            "top": 0,
+                            "width": 0,
+                            "height": 0
+                        },
+                        "maximizeRestoreButtonBounds": {
+                            "left": 0,
+                            "top": 0,
+                            "width": 0,
+                            "height": 0
+                        },
+                        "maximized": false,
+                        "bounds": {
+                            "left": 0,
+                            "top": 0,
+                            "width": 0,
+                            "height": 0
+                        },
+                        "inMaximizedTab": false,
+                        "disableTileMode": false
+                    },
+                    {
+                        "lane": 0,
+                        "positionInLane": 1,
+                        "type": "tab",
+                        "items": [
+                            {
+                                "lane": 0,
+                                "positionInLane": 1,
+                                "tabIndex": 0,
+                                "selected": true,
+                                "type": "window",
+                                "name": "Glue42ChatClient",
+                                "tabTitle": "Glue42 Chat Client",
+                                "tabGroup": "d18490f1-d245-4913-8edc-a1dd4a0212e7",
+                                "newItemButtonBounds": {
+                                    "left": 0,
+                                    "top": 0,
+                                    "width": 0,
+                                    "height": 0
+                                },
+                                "maximizeRestoreButtonBounds": {
+                                    "left": 0,
+                                    "top": 0,
+                                    "width": 0,
+                                    "height": 0
+                                },
+                                "maximized": false,
+                                "bounds": {
+                                    "left": 0,
+                                    "top": 0,
+                                    "width": 0,
+                                    "height": 0
+                                },
+                                "inMaximizedTab": false,
+                                "disableTileMode": false
+                            }
+                        ],
+                        "allowDrop": true,
+                        "allowExtract": true,
+                        "newItemButtonBounds": {
+                            "left": 0,
+                            "top": 0,
+                            "width": 0,
+                            "height": 0
+                        },
+                        "maximizeRestoreButtonBounds": {
+                            "left": 0,
+                            "top": 0,
+                            "width": 0,
+                            "height": 0
+                        },
+                        "maximized": false,
+                        "bounds": {
+                            "left": 0,
+                            "top": 0,
+                            "width": 0,
+                            "height": 0
+                        },
+                        "inMaximizedTab": false,
+                        "disableTileMode": false
+                    }
+                ],
+                "itemRatios": [
+                    0.5,
+                    0.5
+                ],
+                "allowDrop": true,
+                "allowResize": true,
+                "newItemButtonBounds": {
+                    "left": 0,
+                    "top": 0,
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            {
+                "items": [
+                    {
+                        "lane": 1,
+                        "positionInLane": 0,
+                        "type": "tab",
+                        "items": [
+                            {
+                                "lane": 1,
+                                "positionInLane": 0,
+                                "tabIndex": 0,
+                                "selected": true,
+                                "type": "window",
+                                "name": "morningstar",
+                                "tabTitle": "MorningStar",
+                                "tabGroup": "18223f5c-930e-4f0e-9389-98ac9a8e90d5",
+                                "newItemButtonBounds": {
+                                    "left": 0,
+                                    "top": 0,
+                                    "width": 0,
+                                    "height": 0
+                                },
+                                "maximizeRestoreButtonBounds": {
+                                    "left": 0,
+                                    "top": 0,
+                                    "width": 0,
+                                    "height": 0
+                                },
+                                "maximized": false,
+                                "bounds": {
+                                    "left": 0,
+                                    "top": 0,
+                                    "width": 0,
+                                    "height": 0
+                                },
+                                "inMaximizedTab": false,
+                                "disableTileMode": false
+                            }
+                        ],
+                        "allowDrop": true,
+                        "allowExtract": true,
+                        "newItemButtonBounds": {
+                            "left": 0,
+                            "top": 0,
+                            "width": 0,
+                            "height": 0
+                        },
+                        "maximizeRestoreButtonBounds": {
+                            "left": 0,
+                            "top": 0,
+                            "width": 0,
+                            "height": 0
+                        },
+                        "maximized": false,
+                        "bounds": {
+                            "left": 0,
+                            "top": 0,
+                            "width": 0,
+                            "height": 0
+                        },
+                        "inMaximizedTab": false,
+                        "disableTileMode": false
+                    }
+                ],
+                "itemRatios": [
+                    1
+                ],
+                "allowDrop": true,
+                "allowResize": true,
+                "newItemButtonBounds": {
+                    "left": 0,
+                    "top": 0,
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            {
+                "items": [],
+                "itemRatios": [],
+                "allowDrop": true,
+                "allowResize": true,
+                "newItemButtonBounds": {
+                    "left": 0,
+                    "top": 0,
+                    "width": 0,
+                    "height": 0
+                }
+            }
+        ],
+        "horizontal": false,
+        "laneRatios": [
+            0.33333333333333326,
+            0.33333333333333337,
+            0.33333333333333337
+        ],
+        "frameBounds": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+        },
+        "newItemButtonBounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "isEmpty": true,
+            "hasArea": false
+        },
+        "maximizeRestoreButtonBounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "isEmpty": true,
+            "hasArea": false
+        },
+        "selected": false,
+        "frameId": "29552_cf_3",
+        "canvasId": "29552_cv_12"
+    },
+    "lastSaveTime": "2019-11-19T10:18:40.240Z"
+}

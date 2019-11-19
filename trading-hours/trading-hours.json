@@ -1,0 +1,13 @@
+{
+  "name": "trading-hours",
+  "title": "Trading Hours",
+  "caption": "Trading Hours app shows the time for currently selected asset",
+  "type": "window",
+  "details": {
+    "url": "https://market24hclock.com/Trading-Hours",
+    "mode": "flat",
+    "width": 400,
+    "height": 400,
+    "injectionIntegration": true
+  }
+}
