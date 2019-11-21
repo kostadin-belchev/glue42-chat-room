@@ -43,8 +43,9 @@ if (
   `https://market24hclock.com/Trading-Hours/Trading-Hours-of-${stockExchangesMap[stockExchange]}`
 ) {
   window.location.href = `https://market24hclock.com/Trading-Hours/Trading-Hours-of-${stockExchangesMap[stockExchange]}`
-
-  const marketClock = document.getElementById('marketsclocks').scrollIntoView()
-  console.log('TCL: marketClock', marketClock)
 }
+
+const marketClock = document.getElementById('marketsclocks').scrollIntoView()
+console.log('TCL: marketClock', marketClock)
+
 console.log('TCL: window.href 2', window.location.href)
