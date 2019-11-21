@@ -22043,10 +22043,7 @@ const [
   instrumentName,
   stockExchange,
 ] = injectedGlue.windows.my().context.ticker.split(':')
-console.log('TCL: instrumentName', instrumentName)
-console.log('TCL: stockExchange', stockExchange)
 
-console.log('TCL: window.location.href 1', window.location.href)
 if (
   window.location.href !==
   `https://market24hclock.com/Trading-Hours/Trading-Hours-of-${stockExchangesMap[stockExchange]}`
@@ -22054,10 +22051,7 @@ if (
   window.location.href = `https://market24hclock.com/Trading-Hours/Trading-Hours-of-${stockExchangesMap[stockExchange]}`
 }
 
-const marketClock = document.getElementById('marketsclocks').scrollIntoView()
-console.log('TCL: marketClock', marketClock)
-
-console.log('TCL: window.href 2', window.location.href)
+const marketClock = document.getElementsByClassName('trading-hours')[0].scrollIntoView()
 
 // END
 })();
