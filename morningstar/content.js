@@ -22162,9 +22162,8 @@
         if (instrumentChartApp && instrumentChartApp.instances.length === 0) {
             injectedGlue.contexts
                 .update("instrumentDetails", currContext).then(() => {
-                    instrumentChartApp.start(currContext, { canvasPlacement: { canvasId, lane } }).then(
-                        () => tradingHoursApp.start(currContext, { canvasPlacement: { canvasId, lane } })
-                    )
+                    instrumentChartApp.start(currContext, { canvasPlacement: { canvasId, lane } })
+                    tradingHoursApp.start(currContext, { canvasPlacement: { canvasId, lane } })
                 })
         } else {
             injectedGlue.contexts
